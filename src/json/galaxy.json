@@ -1,0 +1,194 @@
+{
+    "galaxies": [
+        {
+            "id": "GAL-001",
+            "name": "Milky Way",
+            "img": "/imgs/milky_way.jpg",
+            "type": "Barred Spiral",
+            "distanceLightYears": 0,
+            "diameterLightYears": 105700,
+            "estimatedStars": 250000000000,
+            "discovery": {
+                "discoveredBy": "Known since antiquity",
+                "year": null
+            },
+            "location": {
+                "constellation": "Sagittarius",
+                "rightAscension": "17h 45m 40s",
+                "declination": "-29° 00' 28″"
+            },
+            "notes": "Home galaxy of Earth"
+        },
+        {
+            "id": "GAL-002",
+            "name": "Andromeda",
+            "img": "/imgs/andromeda.jpg",
+            "type": "Spiral",
+            "distanceLightYears": 2537000,
+            "diameterLightYears": 220000,
+            "estimatedStars": 1000000000000,
+            "discovery": {
+                "discoveredBy": "Abd al-Rahman al-Sufi",
+                "year": 964
+            },
+            "location": {
+                "constellation": "Andromeda",
+                "rightAscension": "00h 42m 44s",
+                "declination": "+41° 16' 9″"
+            },
+            "notes": "Closest major galaxy to the Milky Way"
+        },
+        {
+            "id": "GAL-003",
+            "name": "Triangulum",
+            "img": "/imgs/triangulum.jpg",
+            "type": "Spiral",
+            "distanceLightYears": 3000000,
+            "diameterLightYears": 60000,
+            "estimatedStars": 40000000000,
+            "discovery": {
+                "discoveredBy": "Giovanni Battista Hodierna",
+                "year": 1654
+            },
+            "location": {
+                "constellation": "Triangulum",
+                "rightAscension": "01h 33m 50s",
+                "declination": "+30° 39' 37″"
+            },
+            "notes": "Member of the Local Group"
+        },
+        {
+            "id": "GAL-004",
+            "name": "Whirlpool",
+            "img": "/imgs/whirlpool.jpg",
+            "type": "Spiral",
+            "distanceLightYears": 23000000,
+            "diameterLightYears": 76000,
+            "estimatedStars": 100000000000,
+            "discovery": {
+                "discoveredBy": "Charles Messier",
+                "year": 1773
+            },
+            "location": {
+                "constellation": "Canes Venatici",
+                "rightAscension": "13h 29m 53s",
+                "declination": "+47° 11' 43″"
+            },
+            "notes": "Classic example of a grand-design spiral galaxy"
+        },
+        {
+            "id": "GAL-005",
+            "name": "Sombrero",
+            "img": "/imgs/sombrero.jpg",
+            "type": "Lenticular",
+            "distanceLightYears": 29000000,
+            "diameterLightYears": 49000,
+            "estimatedStars": 80000000000,
+            "discovery": {
+                "discoveredBy": "Pierre Méchain",
+                "year": 1781
+            },
+            "location": {
+                "constellation": "Virgo",
+                "rightAscension": "12h 39m 59s",
+                "declination": "-11° 37' 23″"
+            },
+            "notes": "Bright nucleus with a prominent dust lane"
+        },
+        {
+            "id": "GAL-006",
+            "name": "Pinwheel",
+            "img": "/imgs/pinwheel.jpg",
+            "type": "Spiral",
+            "distanceLightYears": 21000000,
+            "diameterLightYears": 170000,
+            "estimatedStars": 1000000000000,
+            "discovery": {
+                "discoveredBy": "Pierre Méchain",
+                "year": 1781
+            },
+            "location": {
+                "constellation": "Ursa Major",
+                "rightAscension": "14h 03m 12s",
+                "declination": "+54° 20' 57″"
+            },
+            "notes": "One of the largest known spiral galaxies"
+        },
+        {
+            "id": "GAL-007",
+            "name": "Messier 87",
+            "img": "/imgs/messier_87.jpg",
+            "type": "Elliptical",
+            "distanceLightYears": 53000000,
+            "diameterLightYears": 120000,
+            "estimatedStars": 1200000000000,
+            "discovery": {
+                "discoveredBy": "Charles Messier",
+                "year": 1781
+            },
+            "location": {
+                "constellation": "Virgo",
+                "rightAscension": "12h 30m 49s",
+                "declination": "+12° 23' 28″"
+            },
+            "notes": "Contains a supermassive black hole imaged in 2019"
+        },
+        {
+            "id": "GAL-008",
+            "name": "Large Magellanic Cloud",
+            "img": "/imgs/large_magellanic_cloud.jpg",
+            "type": "Irregular",
+            "distanceLightYears": 163000,
+            "diameterLightYears": 14000,
+            "estimatedStars": 30000000000,
+            "discovery": {
+                "discoveredBy": "Known since antiquity",
+                "year": null
+            },
+            "location": {
+                "constellation": "Dorado",
+                "rightAscension": "05h 23m 34s",
+                "declination": "-69° 45' 22″"
+            },
+            "notes": "Satellite galaxy of the Milky Way"
+        },
+        {
+            "id": "GAL-009",
+            "name": "Small Magellanic Cloud",
+            "img": "/imgs/small_magellanic_cloud.jpg",
+            "type": "Irregular",
+            "distanceLightYears": 200000,
+            "diameterLightYears": 7000,
+            "estimatedStars": 3000000000,
+            "discovery": {
+                "discoveredBy": "Known since antiquity",
+                "year": null
+            },
+            "location": {
+                "constellation": "Tucana",
+                "rightAscension": "00h 52m 44s",
+                "declination": "-72° 49' 43″"
+            },
+            "notes": "Interacting with the Large Magellanic Cloud"
+        },
+        {
+            "id": "GAL-010",
+            "name": "Centaurus A",
+            "img": "/imgs/centaurus_a.jpg",
+            "type": "Elliptical",
+            "distanceLightYears": 13000000,
+            "diameterLightYears": 60000,
+            "estimatedStars": 100000000000,
+            "discovery": {
+                "discoveredBy": "James Dunlop",
+                "year": 1826
+            },
+            "location": {
+                "constellation": "Centaurus",
+                "rightAscension": "13h 25m 28s",
+                "declination": "-43° 01' 09″"
+            },
+            "notes": "Strong radio emissions and active galactic nucleus"
+        }
+    ]
+}

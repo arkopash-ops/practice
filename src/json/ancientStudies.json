@@ -1,0 +1,456 @@
+{
+    "ancientStudies": [
+        {
+            "id": "ANC001",
+            "title": "Study of Rama's Exile in Ramayana",
+            "field": "Epic Literature",
+            "objective": "To analyze the events and moral lessons during Lord Rama's 14-year exile.",
+            "materials": {
+                "Texts": [
+                    "Valmiki Ramayana",
+                    "Critical Commentaries"
+                ],
+                "Tools": [
+                    "Notebook",
+                    "Pen",
+                    "Reference Maps"
+                ]
+            },
+            "procedure": [
+                "1. Read the relevant sections of Valmiki Ramayana.",
+                "2. Note down key events during exile.",
+                "3. Identify ethical and moral dilemmas faced by Rama.",
+                "4. Compare interpretations from different commentaries."
+            ],
+            "observations": {
+                "ForestLife": [
+                    "Rama adapts to wilderness",
+                    "Learning survival skills",
+                    "Interaction with sages"
+                ],
+                "FamilyValues": [
+                    "Devotion to parents",
+                    "Obedience to dharma",
+                    "Brotherly support"
+                ],
+                "EthicalDilemmas": [
+                    "Choosing exile over kingdom",
+                    "Maintaining honor under hardship"
+                ]
+            },
+            "result": "The exile teaches the values of duty, morality, and resilience. Rama exemplifies ideal behavior in adverse circumstances.",
+            "safety": {
+                "level": "Low",
+                "precautions": [
+                    "Handle ancient texts carefully",
+                    "Respect cultural context"
+                ]
+            }
+        },
+        {
+            "id": "ANC002",
+            "title": "Kurukshetra War Analysis in Mahabharata",
+            "field": "Epic Warfare",
+            "objective": "To study the strategies, ethics, and consequences of the Kurukshetra war.",
+            "materials": {
+                "Texts": [
+                    "Mahabharata",
+                    "Commentaries",
+                    "Maps of Kurukshetra"
+                ],
+                "Tools": [
+                    "Charts",
+                    "Timeline Analysis"
+                ]
+            },
+            "procedure": [
+                "1. Read Mahabharata war sections.",
+                "2. Record battle strategies used by Pandavas and Kauravas.",
+                "3. Analyze ethical conflicts in war.",
+                "4. Summarize lessons for leadership and justice."
+            ],
+            "observations": {
+                "Strategies": [
+                    "Formation tactics",
+                    "Use of celestial weapons",
+                    "Guerrilla tactics by Arjuna"
+                ],
+                "EthicalConflicts": [
+                    "Bhishma's dilemma",
+                    "Karna's loyalty vs. righteousness",
+                    "Abhimanyu's sacrifice"
+                ],
+                "Consequences": [
+                    "Massive loss of life",
+                    "End of Kaurava dynasty",
+                    "Lessons on dharma"
+                ]
+            },
+            "result": "Mahabharata war emphasizes the importance of duty, righteousness, and ethical decision-making even in warfare.",
+            "safety": {
+                "level": "Low",
+                "precautions": [
+                    "Cultural sensitivity",
+                    "Avoid violent interpretation"
+                ]
+            }
+        },
+        {
+            "id": "ANC003",
+            "title": "Hymns of Rigveda",
+            "field": "Vedic Studies",
+            "objective": "To study the structure, themes, and spiritual messages in Rigvedic hymns.",
+            "materials": {
+                "Texts": [
+                    "Rigveda Samhita",
+                    "Sanskrit Grammar Reference"
+                ],
+                "Tools": [
+                    "Translation software",
+                    "Notebook"
+                ]
+            },
+            "procedure": [
+                "1. Select hymns from Rigveda.",
+                "2. Translate the Sanskrit text.",
+                "3. Identify recurring themes like nature, cosmic order, and deities.",
+                "4. Record interpretations from scholars."
+            ],
+            "observations": {
+                "Deities": [
+                    "Agni (Fire God)",
+                    "Indra (Warrior God)",
+                    "Soma (Ritual drink deity)"
+                ],
+                "Themes": [
+                    "Rituals",
+                    "Cosmic harmony",
+                    "Social and spiritual duties"
+                ]
+            },
+            "result": "Rigveda reveals early Vedic society's spiritual life, rituals, and reverence for natural forces.",
+            "safety": {
+                "level": "Low",
+                "precautions": [
+                    "Handle manuscripts carefully",
+                    "Respect linguistic accuracy"
+                ]
+            }
+        },
+        {
+            "id": "ANC004",
+            "title": "Ayurvedic Herbal Medicine",
+            "field": "Ancient Medicine",
+            "objective": "To study the use of herbs in traditional Ayurvedic treatments.",
+            "materials": {
+                "Herbs": [
+                    "Tulsi",
+                    "Neem",
+                    "Ashwagandha",
+                    "Turmeric",
+                    "Brahmi"
+                ],
+                "Texts": [
+                    "Charaka Samhita",
+                    "Sushruta Samhita"
+                ],
+                "Tools": [
+                    "Mortar and Pestle",
+                    "Measuring scales"
+                ]
+            },
+            "procedure": [
+                "1. Identify common medicinal herbs.",
+                "2. Prepare extracts using traditional methods.",
+                "3. Record observed effects in case studies.",
+                "4. Compare with classical Ayurvedic references."
+            ],
+            "observations": {
+                "Tulsi": [
+                    "Boosts immunity",
+                    "Reduces respiratory problems"
+                ],
+                "Neem": [
+                    "Antimicrobial properties",
+                    "Skin health"
+                ],
+                "Ashwagandha": [
+                    "Stress relief",
+                    "Enhances stamina"
+                ]
+            },
+            "result": "Ayurveda emphasizes preventive health and holistic well-being using natural herbs.",
+            "safety": {
+                "level": "Moderate",
+                "precautions": [
+                    "Use proper dosage",
+                    "Avoid self-medication",
+                    "Consult experts"
+                ]
+            }
+        },
+        {
+            "id": "ANC005",
+            "title": "Ancient Indian Astronomy",
+            "field": "Astronomy",
+            "objective": "To study astronomical knowledge in ancient Indian texts like Surya Siddhanta.",
+            "materials": {
+                "Texts": [
+                    "Surya Siddhanta",
+                    "Aryabhatiya"
+                ],
+                "Tools": [
+                    "Astrolabe",
+                    "Charts",
+                    "Celestial Maps"
+                ]
+            },
+            "procedure": [
+                "1. Analyze planetary positions described in texts.",
+                "2. Compare with modern astronomical data.",
+                "3. Study methods of timekeeping and eclipses.",
+                "4. Document findings."
+            ],
+            "observations": {
+                "PlanetaryMotion": [
+                    "Detailed calculations of planetary cycles",
+                    "Prediction of eclipses"
+                ],
+                "Timekeeping": [
+                    "Solar and lunar calendars",
+                    "Nakshatra (star) systems"
+                ],
+                "Instruments": [
+                    "Gnomons",
+                    "Water clocks"
+                ]
+            },
+            "result": "Ancient Indian astronomers had advanced understanding of celestial mechanics and calendar systems.",
+            "safety": {
+                "level": "Low",
+                "precautions": [
+                    "Handle old manuscripts carefully"
+                ]
+            }
+        },
+        {
+            "id": "ANC006",
+            "title": "Temple Architecture of Khajuraho",
+            "field": "Architecture",
+            "objective": "To study the design, symbolism, and craftsmanship of Khajuraho temples.",
+            "materials": {
+                "Structures": [
+                    "Kandariya Mahadev Temple",
+                    "Lakshmana Temple"
+                ],
+                "Tools": [
+                    "Measuring tapes",
+                    "Camera",
+                    "Notebook"
+                ]
+            },
+            "procedure": [
+                "1. Survey temple layouts.",
+                "2. Document carvings and sculptures.",
+                "3. Identify religious and cultural symbolism.",
+                "4. Record structural techniques."
+            ],
+            "observations": {
+                "Sculptures": [
+                    "Depictions of deities",
+                    "Erotic art symbolizing fertility and life cycles"
+                ],
+                "Layouts": [
+                    "Mandapas, Shikharas, Garbha Griha",
+                    "Symmetry and proportion"
+                ],
+                "Materials": [
+                    "Sandstone blocks",
+                    "Mortar techniques"
+                ]
+            },
+            "result": "Khajuraho temples reflect the integration of art, religion, and architectural innovation.",
+            "safety": {
+                "level": "Moderate",
+                "precautions": [
+                    "Use helmets during surveys",
+                    "Avoid touching fragile carvings"
+                ]
+            }
+        },
+        {
+            "id": "ANC007",
+            "title": "Yoga Practices in Ancient India",
+            "field": "Health & Philosophy",
+            "objective": "To understand the physical and spiritual practices of Yoga as described in Patanjali Yoga Sutras.",
+            "materials": {
+                "Texts": [
+                    "Patanjali Yoga Sutras",
+                    "Hatha Yoga Pradipika"
+                ],
+                "Tools": [
+                    "Yoga mat",
+                    "Notebook",
+                    "Meditation cushions"
+                ]
+            },
+            "procedure": [
+                "1. Study ancient yoga texts.",
+                "2. Identify asanas and pranayama techniques.",
+                "3. Practice selected techniques.",
+                "4. Observe physical and mental effects."
+            ],
+            "observations": {
+                "Asanas": [
+                    "Improves flexibility",
+                    "Enhances posture"
+                ],
+                "Pranayama": [
+                    "Regulates breathing",
+                    "Calms mind"
+                ],
+                "Meditation": [
+                    "Increases focus",
+                    "Promotes inner peace"
+                ]
+            },
+            "result": "Yoga provides holistic development for body, mind, and spirit.",
+            "safety": {
+                "level": "Low",
+                "precautions": [
+                    "Practice under supervision",
+                    "Avoid injury during asanas"
+                ]
+            }
+        },
+        {
+            "id": "ANC008",
+            "title": "Vedic Rituals and Fire Sacrifices",
+            "field": "Ritual Studies",
+            "objective": "To examine the procedures, materials, and symbolic meaning of Vedic yajnas (fire rituals).",
+            "materials": {
+                "Items": [
+                    "Homa Kund (fire pit)",
+                    "Ghee",
+                    "Soma extracts",
+                    "Mantras texts"
+                ],
+                "Tools": [
+                    "Bell",
+                    "Wood sticks",
+                    "Spoon for offerings"
+                ]
+            },
+            "procedure": [
+                "1. Prepare the Homa Kund.",
+                "2. Chant appropriate mantras.",
+                "3. Offer ghee, grains, and soma to the fire.",
+                "4. Observe rituals and record symbolism."
+            ],
+            "observations": {
+                "Symbolism": [
+                    "Purification",
+                    "Offering to deities",
+                    "Cosmic harmony"
+                ],
+                "Mantras": [
+                    "Invocation of Agni and Indra",
+                    "Chants for prosperity and protection"
+                ]
+            },
+            "result": "Vedic rituals emphasized devotion, cosmic order, and moral conduct through symbolic acts.",
+            "safety": {
+                "level": "High",
+                "precautions": [
+                    "Handle fire carefully",
+                    "Maintain sacred space",
+                    "Avoid inhaling smoke"
+                ]
+            }
+        },
+        {
+            "id": "ANC009",
+            "title": "Sanskrit Grammar and Literature",
+            "field": "Linguistics",
+            "objective": "To study Panini's Ashtadhyayi and its rules of grammar for classical Sanskrit literature.",
+            "materials": {
+                "Texts": [
+                    "Ashtadhyayi",
+                    "Sanskrit literature samples"
+                ],
+                "Tools": [
+                    "Notebook",
+                    "Pen",
+                    "Grammar charts"
+                ]
+            },
+            "procedure": [
+                "1. Study Panini's rules.",
+                "2. Apply rules to sample texts.",
+                "3. Analyze sentence structure and meaning.",
+                "4. Compare interpretations with commentaries."
+            ],
+            "observations": {
+                "Syntax": [
+                    "Structured rules for verbs, nouns, sandhi",
+                    "Highly systematic grammar"
+                ],
+                "Literature": [
+                    "Epic poetry follows strict grammatical rules",
+                    "Use of meters and rhythm"
+                ]
+            },
+            "result": "Panini's grammar provided the foundation for classical Sanskrit and linguistic precision.",
+            "safety": {
+                "level": "Low",
+                "precautions": [
+                    "Respect manuscripts",
+                    "Avoid misinterpretation of texts"
+                ]
+            }
+        },
+        {
+            "id": "ANC010",
+            "title": "Chandrayana: Ancient Indian Lunar Calendar",
+            "field": "Chronology",
+            "objective": "To understand the calculation and use of the lunar calendar in ancient India.",
+            "materials": {
+                "Texts": [
+                    "Panchangam manuscripts",
+                    "Surya Siddhanta"
+                ],
+                "Tools": [
+                    "Charts",
+                    "Astrolabe"
+                ]
+            },
+            "procedure": [
+                "1. Study lunar months and tithis.",
+                "2. Map lunar phases to festivals.",
+                "3. Compare with solar calendar calculations.",
+                "4. Document discrepancies and insights."
+            ],
+            "observations": {
+                "Months": [
+                    "Chaitra, Vaisakha, Jyeshtha...",
+                    "Lunisolar adjustments"
+                ],
+                "Festivals": [
+                    "Diwali, Holi, Makar Sankranti",
+                    "Aligned with moon cycles"
+                ],
+                "AstronomicalCalculations": [
+                    "Eclipses predicted accurately",
+                    "Nakshatra based timings"
+                ]
+            },
+            "result": "The lunar calendar helped organize religious, agricultural, and social life efficiently.",
+            "safety": {
+                "level": "Low",
+                "precautions": [
+                    "Careful handling of ancient texts"
+                ]
+            }
+        }
+    ]
+}

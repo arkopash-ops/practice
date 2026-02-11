@@ -1,0 +1,337 @@
+{
+    "experiments": [
+        {
+            "id": "exp-001",
+            "title": "Effect of Temperature on Enzyme Activity",
+            "field": "Biology",
+            "objective": "To study how temperature affects the activity of amylase enzyme.",
+            "materials": {
+                "chemicals": [
+                    "Amylase",
+                    "Starch solution",
+                    "Iodine"
+                ],
+                "equipment": [
+                    "Test tubes",
+                    "Water bath",
+                    "Thermometer"
+                ]
+            },
+            "procedure": [
+                "Prepare starch solution in test tubes",
+                "Add amylase enzyme",
+                "Incubate at different temperatures",
+                "Add iodine to test starch presence"
+            ],
+            "observations": {
+                "optimalTemperatureCelsius": 37,
+                "colorChange": "Blue to colorless",
+                "reactionRate": "Highest at optimal temperature"
+            },
+            "result": "Enzyme activity increases with temperature up to an optimum, then decreases.",
+            "safety": {
+                "level": "Low",
+                "precautions": [
+                    "Wear gloves",
+                    "Avoid ingestion"
+                ]
+            }
+        },
+        {
+            "id": "exp-002",
+            "title": "Verification of Ohm's Law",
+            "field": "Physics",
+            "objective": "To verify the relationship between voltage and current.",
+            "materials": {
+                "components": [
+                    "Resistor",
+                    "Battery",
+                    "Ammeter",
+                    "Voltmeter"
+                ],
+                "tools": [
+                    "Connecting wires",
+                    "Switch"
+                ]
+            },
+            "procedure": [
+                "Assemble the circuit",
+                "Increase voltage gradually",
+                "Measure current for each voltage"
+            ],
+            "observations": {
+                "relationship": "Linear",
+                "graphType": "V-I graph is a straight line",
+                "conclusion": "V ∝ I"
+            },
+            "result": "Ohm's Law is verified.",
+            "safety": {
+                "level": "Medium",
+                "precautions": [
+                    "Avoid short circuit",
+                    "Switch off after use"
+                ]
+            }
+        },
+        {
+            "id": "exp-003",
+            "title": "Photosynthesis Rate under Different Light Intensities",
+            "field": "Biology",
+            "objective": "To study the effect of light intensity on photosynthesis.",
+            "materials": {
+                "plants": [
+                    "Hydrilla"
+                ],
+                "equipment": [
+                    "Beaker",
+                    "Funnel",
+                    "Test tube"
+                ]
+            },
+            "procedure": [
+                "Place Hydrilla in water",
+                "Expose to different light intensities",
+                "Count oxygen bubbles released"
+            ],
+            "observations": {
+                "trend": "Increase then plateau",
+                "maxRateLightLux": 8000
+            },
+            "result": "Photosynthesis increases with light intensity up to saturation point.",
+            "safety": {
+                "level": "Low",
+                "precautions": [
+                    "Handle glassware carefully"
+                ]
+            }
+        },
+        {
+            "id": "exp-004",
+            "title": "Acid-Base Titration",
+            "field": "Chemistry",
+            "objective": "To determine the concentration of an unknown acid.",
+            "materials": {
+                "chemicals": [
+                    "HCl",
+                    "NaOH",
+                    "Phenolphthalein"
+                ],
+                "equipment": [
+                    "Burette",
+                    "Pipette",
+                    "Conical flask"
+                ]
+            },
+            "procedure": [
+                "Fill burette with NaOH",
+                "Add acid to flask",
+                "Titrate until endpoint"
+            ],
+            "observations": {
+                "endpointColor": "Colorless to pink",
+                "averageVolumeUsedMl": 25
+            },
+            "result": "Concentration of acid calculated using titration formula.",
+            "safety": {
+                "level": "Medium",
+                "precautions": [
+                    "Wear goggles",
+                    "Handle acids carefully"
+                ]
+            }
+        },
+        {
+            "id": "exp-005",
+            "title": "Simple Pendulum Experiment",
+            "field": "Physics",
+            "objective": "To study the relationship between length and time period.",
+            "materials": {
+                "components": [
+                    "String",
+                    "Metal bob"
+                ],
+                "tools": [
+                    "Stopwatch",
+                    "Meter scale"
+                ]
+            },
+            "procedure": [
+                "Set pendulum length",
+                "Displace slightly and release",
+                "Measure time for oscillations"
+            ],
+            "observations": {
+                "relationship": "T ∝ √L",
+                "gravityValue": "9.8 m/s²"
+            },
+            "result": "Time period depends on the length of pendulum.",
+            "safety": {
+                "level": "Low",
+                "precautions": [
+                    "Secure setup properly"
+                ]
+            }
+        },
+        {
+            "id": "exp-006",
+            "title": "Paper Chromatography",
+            "field": "Chemistry",
+            "objective": "To separate pigments in ink.",
+            "materials": {
+                "chemicals": [
+                    "Ink",
+                    "Solvent"
+                ],
+                "equipment": [
+                    "Filter paper",
+                    "Beaker"
+                ]
+            },
+            "procedure": [
+                "Spot ink on paper",
+                "Place paper in solvent",
+                "Allow solvent to rise"
+            ],
+            "observations": {
+                "numberOfPigments": 3,
+                "rfValues": [
+                    0.35,
+                    0.62,
+                    0.78
+                ]
+            },
+            "result": "Ink consists of multiple pigments.",
+            "safety": {
+                "level": "Low",
+                "precautions": [
+                    "Avoid inhaling solvent fumes"
+                ]
+            }
+        },
+        {
+            "id": "exp-007",
+            "title": "Respiration in Germinating Seeds",
+            "field": "Biology",
+            "objective": "To show that germinating seeds respire.",
+            "materials": {
+                "biological": [
+                    "Germinating seeds"
+                ],
+                "equipment": [
+                    "Respirometer"
+                ]
+            },
+            "procedure": [
+                "Place seeds in respirometer",
+                "Observe CO₂ production"
+            ],
+            "observations": {
+                "temperatureIncrease": "Slight",
+                "gasReleased": "Carbon dioxide"
+            },
+            "result": "Germinating seeds actively respire.",
+            "safety": {
+                "level": "Low",
+                "precautions": [
+                    "Maintain cleanliness"
+                ]
+            }
+        },
+        {
+            "id": "exp-008",
+            "title": "Newton's Third Law Experiment",
+            "field": "Physics",
+            "objective": "To demonstrate action and reaction forces.",
+            "materials": {
+                "components": [
+                    "Balloon",
+                    "String"
+                ],
+                "equipment": [
+                    "Straw",
+                    "Tape"
+                ]
+            },
+            "procedure": [
+                "Inflate balloon",
+                "Release air along string"
+            ],
+            "observations": {
+                "motion": "Opposite direction",
+                "forcePair": "Equal and opposite"
+            },
+            "result": "Action and reaction forces are equal and opposite.",
+            "safety": {
+                "level": "Low",
+                "precautions": [
+                    "Avoid over-inflation"
+                ]
+            }
+        },
+        {
+            "id": "exp-009",
+            "title": "Osmosis Using Potato Strips",
+            "field": "Biology",
+            "objective": "To demonstrate osmosis.",
+            "materials": {
+                "biological": [
+                    "Potato"
+                ],
+                "chemicals": [
+                    "Sugar solution"
+                ],
+                "equipment": [
+                    "Knife",
+                    "Beaker"
+                ]
+            },
+            "procedure": [
+                "Cut potato strips",
+                "Place in different solutions",
+                "Measure length changes"
+            ],
+            "observations": {
+                "lengthChange": "Increase in hypotonic solution",
+                "conclusion": "Water moves across membrane"
+            },
+            "result": "Osmosis occurs through semi-permeable membrane.",
+            "safety": {
+                "level": "Low",
+                "precautions": [
+                    "Handle knife carefully"
+                ]
+            }
+        },
+        {
+            "id": "exp-010",
+            "title": "Greenhouse Effect Model",
+            "field": "Environmental Science",
+            "objective": "To demonstrate the greenhouse effect.",
+            "materials": {
+                "equipment": [
+                    "Two jars",
+                    "Thermometer"
+                ],
+                "extras": [
+                    "Plastic wrap"
+                ]
+            },
+            "procedure": [
+                "Cover one jar with plastic wrap",
+                "Expose both jars to sunlight",
+                "Measure temperature"
+            ],
+            "observations": {
+                "temperatureDifferenceCelsius": 5,
+                "coveredJarWarmer": true
+            },
+            "result": "Covered jar traps heat, simulating greenhouse effect.",
+            "safety": {
+                "level": "Low",
+                "precautions": [
+                    "Avoid overheating"
+                ]
+            }
+        }
+    ]
+}
