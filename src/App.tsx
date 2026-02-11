@@ -6,6 +6,7 @@ import ExperimentsList from "./components/ExperimentsList";
 import AncientStudieslist from "./components/AncientStudiesList";
 
 import UserList from "./APIExamples/components/UserList";
+import ProductList from "./APIExamples/components/ProductList";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Route path="/ancient-study" element={<AncientStudieslist />} />
 
           <Route path="/api/users" element={<UserList />} />
+          <Route path="/api/products" element={<ProductList />} />
         </Route>
       </Routes>
     </BrowserRouter>
