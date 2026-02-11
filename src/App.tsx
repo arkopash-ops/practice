@@ -7,6 +7,7 @@ import AncientStudieslist from "./components/AncientStudiesList";
 
 import UserList from "./APIExamples/components/UserList";
 import ProductList from "./APIExamples/components/ProductList";
+import GameList from "./APIExamples/components/GameList";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
 
           <Route path="/api/users" element={<UserList />} />
           <Route path="/api/products" element={<ProductList />} />
+          <Route path="/api/games" element={<GameList />} />
         </Route>
       </Routes>
     </BrowserRouter>

@@ -72,6 +72,9 @@ const Navbar: React.FC = () => {
                         <MenuItem component={Link} to="/api/products" onClick={() => setApiAnchor(null)}>
                             Products API
                         </MenuItem>
+                        <MenuItem component={Link} to="/api/games" onClick={() => setApiAnchor(null)}>
+                            Games API
+                        </MenuItem>
                     </Menu>
                 </Box>
             </Toolbar>
